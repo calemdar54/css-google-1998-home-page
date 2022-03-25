@@ -1,0 +1,25 @@
+.search{
+    background: #EEEEEE;
+    text-align: center;
+    margin: auto;
+}
+.th1{
+    background-color:#7ee5da;
+    width: 37%;
+    text-align: center;
+    font-size: 15px;
+}
+.th2{
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: 15px;
+}
+.th3{
+    background-color: #62B3AA;
+    text-align: center;
+    font-size: 12px;
+}
+.img{
+    display: block;
+    margin:auto;
+}
